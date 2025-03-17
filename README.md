@@ -7,7 +7,6 @@
                         <p>Manned Turret Pack</p>
                         <img src="https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="100px">  
                 </a>
-                
                 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3107290429">
                         <img src="https://github.com/Vajdani/SM-Manned-Turret-Pack/blob/master/preview.jpg" width="250px">
                 </a>
