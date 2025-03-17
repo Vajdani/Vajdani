@@ -1,6 +1,7 @@
-# I make mods for Scrap Mechanic
+# Hello!
+I am studying to be a software developer, in my free time I make mods for [Scrap Mechanic](https://store.steampowered.com/app/387990).
 
-# My popular mods:
+## My popular mods:
 <div>
         <a href="https://github.com/Vajdani/SM-Manned-Turret-Pack" target="_blank">
                 <img src="https://github.com/Vajdani/SM-Manned-Turret-Pack/blob/master/preview.jpg" width="175"/>
