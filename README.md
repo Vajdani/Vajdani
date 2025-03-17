@@ -20,4 +20,10 @@
                         <img src="https://store.steampowered.com/favicon.ico" width="50"/>
                 </a>
         </a>
+        <a href="https://github.com/DriVVer/TheMachineGunPack" target="_blank">
+                <img src="https://images.steamusercontent.com/ugc/2470876656766639272/0B60E7D47D9385EB5C3E01BACD3C51B1F4913AF4/" width="250"/>
+                <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1903792337" target="_blank">
+                        <img src="https://store.steampowered.com/favicon.ico" width="50"/>
+                </a>
+        </a>
 </div>
