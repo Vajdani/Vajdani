@@ -3,11 +3,12 @@
 # My popular mods:
 <div>
         <div width="350">
-                <a href="https://github.com/Vajdani/SM-Manned-Turret-Pack" target="_blank">
-                        <img src="manned_turret_left.svg">
+                <a href="https://github.com/Vajdani/SM-Manned-Turret-Pack" target="_blank" width="100">
+                        <p>Manned Turret Pack</p>
+                        <img src="https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg" width="100"/>
                 </a>
                 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3107290429" target="_blank" width="250">
-                        <img src="manned_turret_right.svg">
+                        <img src="https://images.steamusercontent.com/ugc/2508017401741509299/DCC13E1A801420BFB037E40761DF05EC12E26B94/" width="250" />
                 </a>
         </div>
         <!-- <a href="https://github.com/Vajdani/SM-Laser-Tools">
