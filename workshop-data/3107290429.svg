@@ -10,8 +10,8 @@
         }
     </style>
 
-    <text x="5" y="0" class="title">
-        <tspan x="5" dy="1.2em">Manned Turret Pack</tspan>
+    <text x="0" y="0" class="title">
+        <tspan x="0" dy="1.2em">Manned Turret Pack</tspan>
     </text>
     <text x="15" y="25">
         <tspan x="15" dy="1.2em">18880 views</tspan>
