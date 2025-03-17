@@ -1,0 +1,21 @@
+<svg width="196" height="100" viewBox="0 0 196 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        text {
+            fill: #808080;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
+        .title {
+            font-weight: 600;
+        }
+    </style>
+
+    <text x="5" y="0" class="title">
+        <tspan x="5" dy="1.2em">Raft Mechanic</tspan>
+    </text>
+    <text x="15" y="25">
+        <tspan x="15" dy="1.2em">101199 views</tspan>
+        <tspan x="15" dy="1.2em">86285 downloads</tspan>
+        <tspan x="15" dy="1.2em">2037 favorites</tspan>
+    </text>
+</svg>
