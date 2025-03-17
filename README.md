@@ -19,8 +19,8 @@ Mod showcase inspired by [TechnologicNick](https://github.com/TechnologicNick/Te
                         <img src="https://store.steampowered.com/favicon.ico" width="36"/>
                 </a>
         </a>
-        <a href="https://github.com/RaftMechanic/Raft-Mechanic-Game-Mode" target="_blank">
-                <img src="https://raw.githubusercontent.com/RaftMechanic/Raft-Mechanic-Game-Mode/refs/heads/main/preview.jpg" width="178"/>
+        <a href="https://github.com/Vajdani/Raft-Mechanic-Game-Mode" target="_blank">
+                <img src="https://raw.githubusercontent.com/Vajdani/Raft-Mechanic-Game-Mode/refs/heads/main/preview.jpg" width="178"/>
                 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2807590049" target="_blank">
                         <img src="workshop-data/2807590049.svg"/>
                         <img src="https://store.steampowered.com/favicon.ico" width="36"/>
